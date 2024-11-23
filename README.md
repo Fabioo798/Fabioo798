@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-My name is Fabio Di Noia im from Italy and I live between Portugal, Spain & my native country. I'm Web Developer and:
+My name is Fabio Di Noia im from Italy and I live between Portugal, Spain & my native country. I'm a Web Developer and:
 
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on Obsidian.md
