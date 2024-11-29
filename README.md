@@ -9,7 +9,7 @@ My name is Fabio Di Noia im from Italy and I live between Portugal, Spain & my n
 - 👯 I’m looking to collaborate on Obsidian.md
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about my other hobbies
-- 📫 How to reach me: Fabiodn.798@gmail.com
+- 📫 How to reach me: fabiodn.798@gmail.com
 - ⚡ Fun fact: I speak 4 fluent languages
 
 
